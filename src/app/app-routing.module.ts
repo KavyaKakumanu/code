@@ -5,6 +5,10 @@ import { ContactComponent} from './contact/contact.component';
 import { LoginComponent} from './login/login.component';
 import { ShareComponent} from './share/share.component';
 import { HomeComponent} from './home/home.component';
+import { RegisterComponent} from './register/register.component';
+import { SucessComponent} from './sucess/sucess.component';
+import { MainpageComponent} from './mainpage/mainpage.component';
+
 
 
 const routes: Routes = [
@@ -12,7 +16,10 @@ const routes: Routes = [
   {path:'contact', component: ContactComponent},
   {path:'login',component: LoginComponent},
   {path:'share',component:ShareComponent},
-  {path:'',component:HomeComponent}
+  {path:'',component:HomeComponent},
+  {path:'register',component:RegisterComponent},
+  {path:'sucess',component:SucessComponent},
+  {path:'mainpage',component:MainpageComponent}
 
 ];
 
