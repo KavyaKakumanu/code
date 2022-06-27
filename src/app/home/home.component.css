@@ -1,0 +1,17 @@
+
+.home1 h1{
+    color :#fff;
+    font-size: 90px;
+    font-weight:bold;
+    font-family: Brush Script MT;
+    top:50%;
+    left:30%;
+    position:absolute;
+}
+.home1{
+    background-image:url(https://www.kotak.com/content/dam/Kotak/product_card_images/how-credit-cards-enhance-your-shopping-experience.jpg);
+    height:1000px;
+     background-image: center;
+     background-size:cover;
+     
+ }

@@ -1,0 +1,29 @@
+.about{
+    background-image:url(https://img5.goodfon.com/wallpaper/nbig/0/63/tsvety-rozy-rozovye-pink-flowers-beautiful-goluboi-fon-ros-1.jpg);
+    height:100%;
+    width:100%;
+    background-position:center;
+    background-size:cover;
+    position:absolute;
+}
+ 
+ .about {
+    font-family:Brush Script MT;
+    text-align: center;
+    padding-top: 150px;
+    padding-left:150px;
+    
+ }
+ .about p{
+    font-size:30px;
+ }
+ .about h1{
+    font-size:60px;
+ }
+ .sign{
+    font-size:70px;
+    
+    padding-left:350px;
+    
+
+ }

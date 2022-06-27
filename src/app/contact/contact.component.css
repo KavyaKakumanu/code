@@ -1,0 +1,27 @@
+.contact{
+    
+
+    background-image:url(https://www.designyourway.net/blog/wp-content/uploads/2020/04/Watercolor-pink-texture-background-Ethereal-looking.jpg);
+    
+    height:1000px;
+     background-image: center;
+     background-size:cover;
+     
+}
+     
+
+
+
+.contact h1{
+
+    
+        padding-top: 150px;
+        padding-left:150px;
+        
+     
+}
+.contact p{
+    font-size:30px;
+    padding-left:130px;
+    padding-top:50px;
+}
